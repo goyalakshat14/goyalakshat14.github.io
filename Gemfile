@@ -11,10 +11,6 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 
-gem "kramdown", ">= 2.3.0"
-gem "activesupport", ">= 6.0.3.1"
-gem "nokogiri", ">= 1.10.8"
-
 gem "minima", "~> 2.5"
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
